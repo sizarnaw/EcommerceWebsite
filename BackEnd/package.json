@@ -1,0 +1,21 @@
+{
+  "name": "pws236369-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo hi",
+    "start": "node ./gateway/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramze10/PWS236369-BackEnd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramze10/PWS236369-BackEnd/issues"
+  },
+  "homepage": "https://github.com/ramze10/PWS236369-BackEnd#readme"
+}
