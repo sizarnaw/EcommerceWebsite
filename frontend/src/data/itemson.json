@@ -1,0 +1,34 @@
+[
+    {
+      "id": "1",
+      "name": "Book",
+      "price": 10.99,
+      "imgUrl": "/imgs/book.jpg",
+      "quantity": 2,
+      "Description": "This book is a beautifully written tale of adventure and self-discovery, filled with valuable lessons on following one's dreams and listening to the guidance of the universe."
+    },
+    {
+      "id": "2",
+      "name": "Computer",
+      "price": 1199,
+      "imgUrl": "/imgs/computer.jpg",
+      "quantity": 5,
+      "Description":"Most PowerFull Computer In the world"
+    },
+    {
+      "id": "3",
+      "name": "Banana",
+      "price": 1.05,
+      "imgUrl": "/imgs/banana.jpg",
+      "quantity": 0,
+      "Description":"WOW BANANA!"
+    },
+    {
+      "id": "4",
+      "name": "Car",
+      "price": 14000,
+      "imgUrl": "/imgs/car.jpg",
+      "quantity": 12,
+      "Description":"Most PowerFull car In the world , Can go fast as 200mph "
+    }
+  ]

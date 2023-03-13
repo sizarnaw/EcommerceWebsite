@@ -1,0 +1,37 @@
+[
+    {
+      "orderid": "2",
+      "totalprice": 1199,
+      "shippingAddress": "Haifa",
+      "customerName": "Sizar",
+      "status" : "Pending"
+    },
+    {
+        "orderid": "3",
+        "totalprice": 14000,
+        "shippingAddress": "Tel Aviv",
+        "customerName": "Avi",
+        "status" : "Delivered"
+    },
+    {
+        "orderid": "4",
+        "totalprice": 50000,
+        "shippingAddress": "Reineh",
+        "customerName": "Elias",
+        "status" : "Pending"
+    },
+    {
+        "orderid": "5",
+        "totalprice": 125,
+        "shippingAddress": "Tel Aviv",
+        "customerName": "Ramzi",
+        "status" : "Delivered"
+    },
+    {
+        "orderid": "6",
+        "totalprice": 5456,
+        "shippingAddress": "Haifa",
+        "customerName": "Moshe",
+        "status" : "Pending"
+    }
+  ]
